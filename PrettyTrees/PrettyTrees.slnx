@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PrettyTrees/PrettyTrees.vcxproj" Id="0531f038-57ec-4a72-9476-fd296df39f04" />
+</Solution>
